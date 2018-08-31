@@ -1,3 +1,5 @@
+[![Heimdall Scanner](https://heimdall.maddevs.io/badge/github/puzanov/not-so-smart-contracts)](https://heimdall.maddevs.io/report/github/puzanov/not-so-smart-contracts)
+
 # (Not So) Smart Contracts
 
 This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.
